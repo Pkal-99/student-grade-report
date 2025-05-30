@@ -26,7 +26,10 @@ summary report.
 
 # Author
     Kaleab Ayele
-    @ritaafricabootcamp 
+    https://www.linkedin.com/in/kaleab-ayele-b932a343/
+    #ritaafricabootcamp 
+    https://www.linkedin.com/school/rita-africa/posts/?feedView=all 
+    
 
 # How to Run the program 
     - download student_report_card.ipynb file and open it with juypterlab
