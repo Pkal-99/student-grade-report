@@ -1,0 +1,7 @@
+ Report for Tuti
+English: 75.0
+Biology: 99.0
+Information Technology: 60.0
+Average: 78.00
+Grade: C
+Status: Pass

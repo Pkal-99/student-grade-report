@@ -1,0 +1,7 @@
+ Report for Kaleab
+English: 85.0
+Biology: 70.0
+Information Technology: 95.0
+Average: 83.33
+Grade: B
+Status: Pass

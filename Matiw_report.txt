@@ -1,0 +1,7 @@
+ Report for Matiw
+English: 80.0
+Biology: 45.0
+Information Technology: 90.0
+Average: 71.67
+Grade: C
+Status: Pass
