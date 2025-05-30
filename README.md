@@ -4,6 +4,8 @@
 
 This system allows users (teachers) to enter students' names, subjects, and scores, then calculate averages, assign grades, and generate a report for each student. This project simulates real-life school report systems.
    
+This beginner-friendly Python project, developed during the RITA Africa Bootcamp, helps users enter student scores across multiple subjects, generate individual report cards with grades and pass/fail status, and save these reports as files. It also identifies the top-performing student and creates a class
+summary report.
 # System Capabilities
 
     Add multiple students with scores in multiple subjects
