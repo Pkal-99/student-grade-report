@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/e8a9d496-40d8-46c1-85e3-381b630fec0d)
+
 # Student Report Card Generator
 
 This system allows users (teachers) to enter students' names, subjects, and scores, then calculate averages, assign grades, and generate a report for each student. This project simulates real-life school report systems.
@@ -20,7 +22,7 @@ This system allows users (teachers) to enter students' names, subjects, and scor
 # Repository 
     github  https://github.com/Pkal-99/student-grade-report
 
-# Auther
+# Author
     Kaleab Ayele
     @ritaafricabootcamp 
 
